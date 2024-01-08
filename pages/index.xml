@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on L.G Mngadi</title>
+    <link>https://hba.sid.one/pages/</link>
+    <description>Recent content in Pages on L.G Mngadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://hba.sid.one/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hba.sid.one/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hba.sid.one/pages/about/</guid>
+      
+      <description>Summary If I had to describe my self in one sentance:
+Software developer with a love for making things. Development Setup You can check out my config files here
+OS: Linux Text editor: Vim Web searching: w3m Containers: Podman Other: Tmux Programming languages Python Javascript Typescript Bash Java Technologies Web development:
+Django Fast API Express Remix Databases:
+Postgress MongoDB SQlite ORM Tools (Object-Relational Mapper):
+SQLAlchemy Prisma Caching:
+Redis Networking:
+Nginx Python request module Testing:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
